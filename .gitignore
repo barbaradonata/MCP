@@ -1,0 +1,13 @@
+# Credentials and Tokens
+credentials.json
+token.json
+.env
+
+# Generated Files
+downloaded_script.json
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
